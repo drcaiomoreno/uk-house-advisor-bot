@@ -9,3 +9,7 @@ Data from: <BR>
 
 Price Paid Data<BR>
 https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads<BR>
+
+Price Paid Data - Single File Data:<BR>
+http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-complete.csv<BR>
+
