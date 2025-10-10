@@ -1,5 +1,5 @@
 # UK House Advisor Bot
-UK House Advisor Bot is an Artificial Intelligence Bot to help people to find relavant information about the UK Housing Market. 
+UK House Advisor Bot is an experimental artificial intelligence tool designed to assist users in accessing relevant information about the UK housing market. It is intended for educational purposes only.<BR>
 
 # Products
 - Databricks Lakehouse
