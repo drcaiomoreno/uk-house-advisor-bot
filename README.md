@@ -17,3 +17,10 @@ Using or publishing our Price Paid Data<BR>
 https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads#using-or-publishing-our-price-paid-data<BR>
 Price Paid Data is released under the Open Government Licence (OGL). You need to make sure you understand the terms of the OGL before using the data.<BR>
 Under the OGL, HM Land Registry permits you to use the Price Paid Data for commercial or non-commercial purposes. However, OGL does not cover the use of third party rights, which we are not authorised to license.<BR>
+
+### London PDFS
+London Visitor Guide <BR>
+https://content.tfl.gov.uk/london-visitor-guide.pdf<BR>
+
+London Lonely Planet <BR>
+https://assets.lonelyplanet.com/marketing/ebooks/london.pdf<BR>
